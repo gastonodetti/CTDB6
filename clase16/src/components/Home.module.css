@@ -1,0 +1,9 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.links {
+    text-decoration: none;
+}
